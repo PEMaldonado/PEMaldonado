@@ -28,6 +28,6 @@ JIRA
 
 No dudes en contactarme!
 
-https://www.linkedin.com/in/pablo-maldonado-528972144/
+Linkedin: https://www.linkedin.com/in/pablo-maldonado-528972144/
 
 Correo: pablomaldonado2086@gmail.com
