@@ -1,27 +1,42 @@
-¿Quién soy?
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" />
+    <h1 align="center">Hi! 👋, I'm Pablo Maldonado</h1>
+    <h3 align="center">A passionate fullstack web developer from Argentina. </h3>
+</div>
+---
 
-Soy un Programador Fullstack orientado al Back-end.
+### 👨‍💻 About Me :
 
-En la universidad estudié Licenciatura en Sonorización y grabación, donde tuve clases de programación en Python y allí fue cuando me di cuenta de lo que me apasiona el mundo de la programación, y decidi dar un giro en mi vida y realizar el bootcamp en Henry.
+- 📝 I'm a Fullstack Developer with experience in Node.js, React, Redux, SQL, and other related technologies. I have worked on both individual and team-based Fullstack projects, honing my collaborative skills, problem-solving abilities, and delivering high-quality solutions. My specialization lies in Back-end development. I possess knowledge of Agile methodologies, GIT, and JIRA. With a strong aptitude for problem analysis, effective communication, and teamwork, I excel in delivering impactful results.
 
-¿Qué hago?
+- 🌱 I am currently dedicated to working on projects that allow me to advance in my journey as a programmer.
+My main goal is to become a great developer and eventually be able to share my knowledge to contribute to the community.
+I thoroughly enjoy finding solutions, exploring different perspectives when tackling a problem, optimizing those solutions, and continuously learning and growing every day.
 
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador.
+- 📫 How to reach me: **pablomaldonado2086@gmail.com**
 
-¿A dónde me dirijo?
 
-Mi objetivo principal es convertirme en un gran programador y poder, en algun momento, compartir mis conocimientos para contribuir con la comunidad.
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://www.mementotech.in/assets/images/icons/express.png" title="Express" **alt="Express" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+</div>
 
-Disfruto mucho de encontrar soluciones, de ver las diferentes perspectivas a la hora de abarcar un problema, de optimizar dichas soluciones y de aprender cada día un poco más.
+---
 
-¿Qué tecnologías uso?
+### 📊 My Stats :
 
-El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PEMaldonado&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-Javascript Node.js Express.js React.js Redux.js PostgreSQL Sequelize GIT HTML CSS JIRA
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PEMaldonado&show_icons=true&theme=radical)
 
-No dudes en contactarme!
-
-Linkedin: https://www.linkedin.com/in/pablo-maldonado-528972144/
-
-Correo: pablomaldonado2086@gmail.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEMaldonado&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
