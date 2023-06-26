@@ -13,7 +13,11 @@
 My main goal is to become a great developer and eventually be able to share my knowledge to contribute to the community.
 I thoroughly enjoy finding solutions, exploring different perspectives when tackling a problem, optimizing those solutions, and continuously learning and growing every day.
 
-- 📫 How to reach me: **pablomaldonado2086@gmail.com**
+- 📫 How to reach me:
+
+Email: **pablomaldonado2086@gmail.com**
+
+Linkedin: https://www.linkedin.com/in/pablo-maldonado-528972144/
 
 
 <div align="left">
