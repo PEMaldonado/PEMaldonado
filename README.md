@@ -7,11 +7,17 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I'm a Fullstack Developer with experience in Node.js, React, Redux, SQL, and other related technologies. I have worked on both individual and team-based Fullstack projects, honing my collaborative skills, problem-solving abilities, and delivering high-quality solutions. My specialization lies in Back-end development. I possess knowledge of Agile methodologies, GIT, and JIRA. With a strong aptitude for problem analysis, effective communication, and teamwork, I excel in delivering impactful results.
+- 📝 I'm a Fullstack Developer with experience in Php, Laravel, Node.js, Express, React, Redux, SQL, NoSQL, and other related technologies. I have worked on both individual and team-based Fullstack projects, honing my collaborative skills, problem-solving abilities, and delivering high-quality solutions. My specialization lies in Back-end development. I possess knowledge of Agile methodologies, GIT, and JIRA. With a strong aptitude for problem analysis, effective communication, and teamwork.
 
-- 🌱 I am currently dedicated to working on projects that allow me to advance in my journey as a programmer.
-My main goal is to become a great developer and eventually be able to share my knowledge to contribute to the community.
-I thoroughly enjoy finding solutions, exploring different perspectives when tackling a problem, optimizing those solutions, and continuously learning and growing every day.
+- 🌱 As a full stack web developer i have:
+    •	Managed various projects such as a quote system for a solar power company, a quote system for an auto fines company, and a management system for a household products distribution company.
+    •	Implemented powerful features such as authentication, routing, validations, PDF and Excel import and export in Laravel, mailing, search, filtering, sorting and pagination for a better user experience.
+    •	Implemented web scraping with Python + Beautiful Soup and Selenium, as well as with Laravel and Symfony Dom Crawler to obtain relevant public information from other websites.
+    •	Designed views using Laravel blade, Tailwind, Livewire, Javascript, Flowbite, Sweet Alert, among other technologies.
+    •	Designed and managed database using Eloquent as ORM and MySQL. I've also worked with No-SQL databases with mongoDB.
+    •	Deployed applications on Linux servers using Cpanel
+    •	Participated in meetings with clients to show them the progress of the projects.
+
 
 - 📫 How to reach me:
 
@@ -23,6 +29,8 @@ Linkedin: https://www.linkedin.com/in/pablo-maldonado-528972144/
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
