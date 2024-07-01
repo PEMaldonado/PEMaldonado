@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I'm a Fullstack Developer with experience in Php, Laravel, Node.js, Express, React, Redux, SQL, NoSQL, and other related technologies. I have worked on both individual and team-based Fullstack projects, honing my collaborative skills, problem-solving abilities, and delivering high-quality solutions. My specialization lies in Back-end development. I possess knowledge of Agile methodologies, GIT, and JIRA. With a strong aptitude for problem analysis, effective communication, and teamwork.
+- 📝 I'm a Fullstack Developer with experience in Php, Laravel, Node.js, Express, React, Redux, Astro, SQL, NoSQL, and other related technologies. I have worked on both individual and team-based Fullstack projects, honing my collaborative skills, problem-solving abilities, and delivering high-quality solutions. My specialization lies in Back-end development. I possess knowledge of Agile methodologies, GIT, and JIRA. With a strong aptitude for problem analysis, effective communication, and teamwork.
 
 - 🌱 As a full stack web developer i have:
     •	Managed various projects such as a quote system for a solar power company, a quote system for an auto fines company, and a management system for a household products distribution company.
@@ -36,6 +36,7 @@ Linkedin: https://www.linkedin.com/in/pablo-maldonado-528972144/
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" title="Redux"  alt="Redux" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://www.mementotech.in/assets/images/icons/express.png" title="Express" **alt="Express" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
